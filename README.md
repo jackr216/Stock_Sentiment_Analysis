@@ -151,14 +151,6 @@ Execute notebooks in order:
 
 This project is open source and available under the MIT License.
 
-## 👤 Author
-
-**Jack Roberts**
-
-- GitHub: [@jackr216](https://github.com/jackr216)
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-
 ## 🙏 Acknowledgments
 
 - News data: [News API](https://newsapi.org/)
